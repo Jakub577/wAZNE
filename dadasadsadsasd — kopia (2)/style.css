@@ -1,0 +1,29 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.zdj1{
+    width: 100%;
+    height: 100%;
+}
+
+.p4{
+    background-color: red;
+    text-align: center;
+    height: 7vh;
+    font-size: 30px;
+}
+.p1{
+text-align:center;
+align-items: center;    
+}
+
+.fuuu{
+    margin-bottom: -200px;
+}
